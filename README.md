@@ -1,5 +1,5 @@
 ---
-description: 请问请问亲额
+description: openlRay的博客
 ---
 
 # Introduction
@@ -8,9 +8,14 @@ description: 请问请问亲额
 
 Becoming a super hero is a fairly straight forward process:
 
+{% code-tabs %}
+{% code-tabs-item title="啊D" %}
 ```
 $ give me super-powers
+
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 {% hint style="info" %}
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
